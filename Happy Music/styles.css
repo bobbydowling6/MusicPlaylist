@@ -20,7 +20,7 @@ div.player img.album-art {
 }
 div.player div.meta-container {
   float: left;
-  width: calc(100% - 245px);
+  width: calc(100% - 300px);
   padding: 10px;
 }
 div.player div.meta-container div.song-title {
